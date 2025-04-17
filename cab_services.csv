@@ -1,0 +1,26 @@
+Company,Ride,Base Fare,Per km Fare
+Uber,Mini,35,11
+Uber,Sedan,50,15
+Uber,SUV,58,18
+Uber,Auto,24,8
+Uber,Bike,16,5
+Ola,Mini,38,12
+Ola,Sedan,45,13
+Ola,SUV,60,17
+Ola,Auto,22,7
+Ola,Bike,15,4
+Rapido,Mini,40,13
+Rapido,Sedan,48,14
+Rapido,SUV,52,14
+Rapido,Auto,20,7
+Rapido,Bike,13,4
+InDrive,Mini,36,12
+InDrive,Sedan,47,14
+InDrive,SUV,55,15
+InDrive,Auto,18,6
+InDrive,Bike,11,3
+Jugnoo,Mini,37,13
+Jugnoo,Sedan,46,15
+Jugnoo,SUV,57,16
+Jugnoo,Auto,21,7
+Jugnoo,Bike,10,2

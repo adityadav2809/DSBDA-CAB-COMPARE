@@ -1,0 +1,42 @@
+[
+    {
+        "start": "pune",
+        "end": "delhi",
+        "ride": "Mini",
+        "distance_km": 1396.94,
+        "time_min": 1462,
+        "fare": 18474.61
+    },
+    {
+        "start": "delhi",
+        "end": "jaipur",
+        "ride": "Mini",
+        "distance_km": 309.44,
+        "time_min": 314,
+        "fare": 4119.61
+    },
+    {
+        "start": "pune",
+        "end": "delhi",
+        "ride": "Mini",
+        "distance_km": 1396.94,
+        "time_min": 1447,
+        "fare": 18474.61
+    },
+    {
+        "start": "delhi",
+        "end": "amritsar",
+        "ride": "Mini",
+        "distance_km": 448.85,
+        "time_min": 442,
+        "fare": 5959.82
+    },
+    {
+        "start": "jaipur",
+        "end": "kashmir",
+        "ride": "Sedan",
+        "distance_km": 907.16,
+        "time_min": 1056,
+        "fare": 14196.7
+    }
+]
