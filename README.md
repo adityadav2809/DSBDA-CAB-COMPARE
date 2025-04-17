@@ -24,5 +24,6 @@ The **Cab Fare Comparator** is a Python-based application that compares fares fo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/cab-fare-comparator.git
-   cd cab-fare-comparator
+   git clone https://github.com/yourusername/DSBDA-CAB-COMPARE.git
+   cd DSBDA-CAB-COMPARE
+   
